@@ -1,6 +1,12 @@
-# Scrivere un programma che chieda all’utente:
-- Il numero di chilometri da percorrere
-- Età del passeggero Sulla base di queste informazioni dovrà calcolare il prezzo totale del biglietto di viaggio, secondo le seguenti regole:
-- il prezzo del biglietto è definito in base ai km (0.21 € al km)
+# calcolare il prezzo del biglietto del treno
+- chiedere al passeggero quanti anni ha
+    - creare una variabile che prenda dall'imput i dati dell'utente
+- chiedere al passeggero quanti km vuole percorrere
+    - creare una variabile che prenda dall'imput i dati dell'utente
+- definire il prezzo al km base di (0.21$ al km)
+    - creare una variabile che indichi il prezzo fisso al km
+- creare un bottone che confermi i dati
+    - creare un evento collegato al bottone che inivia i dati alla variabile
 - va applicato uno sconto del 20% per i minorenni
-- va applicato uno sconto del 40% per gli over 65.
+- va applicato uno sconto del 40% per gli over 65
+- far comparire il prezzo finale con lo sconto aplicato
